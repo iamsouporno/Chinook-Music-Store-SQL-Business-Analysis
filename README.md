@@ -1,6 +1,5 @@
+# Chinook Music Store – SQL Analysis Project
 ![Chinook SQL Project](cover.png)
-
-Chinook Music Store – SQL Analysis Project
 
 📌 Project Overview
 
